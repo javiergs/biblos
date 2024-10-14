@@ -1,8 +1,8 @@
 [![Release](https://jitpack.io/v/User/Repo.svg)]
-(https://jitpack.io/#User/Repo)
+(https://jitpack.io/#javiergs/biblos)
 
-![Weekly download statistics](https://jitpack.io/v/USER/REPO/week.svg)
-![Monthly download statistics](https://jitpack.io/v/USER/REPO/month.svg)
+![Weekly download statistics](https://jitpack.io/v/javiergs/biblos/week.svg)
+![Monthly download statistics](https://jitpack.io/v/javiergs/biblos/month.svg)
 
 
 # Library testing
