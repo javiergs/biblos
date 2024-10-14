@@ -1,4 +1,4 @@
-[![Release](https://jitpack.io/v/javiergs/biblos.svg)]
+![Release](https://jitpack.io/v/javiergs/biblos.svg)
 (https://jitpack.io/#javiergs/biblos)
 
 
