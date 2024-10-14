@@ -1,7 +1,5 @@
 ![Release](https://jitpack.io/v/javiergs/biblos.svg)
-
 ![Weekly download statistics](https://jitpack.io/v/javiergs/biblos/week.svg)
-
 ![Monthly download statistics](https://jitpack.io/v/javiergs/biblos/month.svg)
 
 # Library testing
